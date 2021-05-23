@@ -13,6 +13,6 @@ Then use this command to combine the object files:
       g++ *.o
 Finally an a.exe file will be created, runing using this command and you will be ready to play Snowman!:
 
-      './a.exe'
+      './a.exe or a.exe depending on which terminal you are using'
 ## Dependencies :milky_way:
 c++
