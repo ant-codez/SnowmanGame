@@ -1,5 +1,5 @@
 # Snowman Game :snowman::snowman_with_snow::snowman:
-Collect, hatch and raise pets with this discord bot!
+Play classic hangman in the terminal with a twist!! You have 8 tries to guess the correct word letter by letter before the snowman is built. Do you think you can take him on??
 
 ## Usage :newspaper:
 To play the same first compile each file using:
