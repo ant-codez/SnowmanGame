@@ -17,5 +17,5 @@ Finally an a.exe file will be created, runing using this command and you will be
 ## Dependencies :milky_way:
 c++:
 
-      Check if c++ is installed: g++ -v
-      [Download c++ here if missing](https://sourceforge.net/projects/mingw-w64/)
+  Check if c++ is installed: g++ -v
+  [Download c++ here if missing](https://sourceforge.net/projects/mingw-w64/)
