@@ -5,7 +5,7 @@ Play classic hangman in the terminal with a twist!! You have 8 tries to guess th
 
 
 ## Usage :newspaper:
-To play the same first compile each file using:
+To play the game first compile each file using:
 
       g++ -Wall -c -g *.cpp
 Then use this command to combine the object files:
