@@ -15,4 +15,8 @@ Finally an a.exe file will be created, runing using this command and you will be
 
       './a.exe or a.exe depending on which terminal you are using'
 ## Dependencies :milky_way:
-c++
+c++:
+
+      Check if c++ is installed: g++ -v
+      Download c++ here if missing - automatic!
+      [C++](https://sourceforge.net/projects/mingw-w64/)
