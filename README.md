@@ -18,4 +18,5 @@ Finally an a.exe file will be created, runing using this command and you will be
 Check if c++ is installed:
 
       g++ -v
-      <a href = "https://sourceforge.net/projects/mingw-w64/">Download c++ here if missing</a>
+
+Download c++: [Here](https://sourceforge.net/projects/mingw-w64)
